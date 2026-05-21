@@ -1,0 +1,6 @@
+{
+  "name": "محفظتي",
+  "description": "تطبيق محفظتي لإدارة الشؤون المالية والديون والعملات المتعددة دون اتصال بالإنترنت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
